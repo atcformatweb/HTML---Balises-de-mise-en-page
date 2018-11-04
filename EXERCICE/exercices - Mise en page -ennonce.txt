@@ -1,0 +1,37 @@
+(titre nv 3)Titre niveau 3(titre nv 3)
+
+(paragraphe)
+Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+Incidunt id sequi quae (Italique) assumenda aspernatur (Italique) repudiandae totam 
+(gras) doloribus (gras) accusantium minima ea? Atque incidunt saepe nihil harum sed
+ipsa quia nisi eligendi.
+(paragraphe)
+
+(titre nv 4)Titre niveau 4(titre nv 4)
+
+(citation)
+Citation, Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+Incidunt id sequi quae (surligner)assumenda aspernatur (surligner) repudiandae totam 
+(surligner) doloribus (surligner) accusantium minima ea? Atque incidunt saepe nihil harum sed
+ipsa quia nisi eligendi.
+(citation)
+
+(liste)
+Lorem ipsum
+Lorem ipsum
+    (sous-liste)
+    Lorem ipsum
+    Lorem ipsum
+    Lorem ipsum
+    Lorem ipsum
+    (sous-liste)
+Lorem ipsum
+Lorem ipsum
+(liste)
+
+(paragraphe)
+Lorem ipsum (surligner et gras) dolor sit amet consectetur adipisicing (surligner et gras) elit.
+Exercitationem deleniti labore debitis quos ab nisi magni sed eum,
+porro architecto aperiam assumenda inventore fugit doloremque quam cumque?
+Impedit, sunt alias.
+(paragraphe)
